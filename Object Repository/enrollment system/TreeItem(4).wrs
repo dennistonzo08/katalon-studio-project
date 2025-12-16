@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TreeItem(4)</name>
+   <tag></tag>
+   <locator>BASIC TRAINING</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>69</value>
+      <webElementGuid>3ce851d3-b8a4-4c26-80ed-03e0578e8c24</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>7db58bb6-2eba-4d63-a1cb-d561693c6d54</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>55f70634-dc9d-4d13-bffc-4981bec30cef</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>FrameworkId</name>
+      <type>Main</type>
+      <value>WinForm</value>
+      <webElementGuid>691b5355-f447-41a6-86bc-a68e12d8274e</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>KgAAAA==,1goVAA==,BAAAAA==,AIqYCA==</value>
+      <webElementGuid>814bef3f-5ae5-4e9e-9e03-a30913854d38</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Name</name>
+      <type>Main</type>
+      <value>BASIC TRAINING</value>
+      <webElementGuid>c3cd3ed9-635a-4247-8f7c-2f00b637daa8</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>445dac6a-9003-4080-8e2a-7133942bca6a</webElementGuid>
+   </properties>
+</WindowsElementEntity>

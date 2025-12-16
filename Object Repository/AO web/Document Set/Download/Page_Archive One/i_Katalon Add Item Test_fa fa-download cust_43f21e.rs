@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Katalon Add Item Test_fa fa-download cust_43f21e</name>
+   <tag></tag>
+   <elementGuidId>e656b6e5-1712-4aab-b4c8-9f4a0c259a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-dsitems-forusers']/div/div[2]/ul/li/div/div[3]/div/a[4]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-download.custom-theme-color-icon-gray1.ml-1.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e7234bb6-8d64-4c80-8381-169ffee72be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-download custom-theme-color-icon-gray1  ml-1 mr-1</value>
+      <webElementGuid>5efec24b-9e48-486d-b4c6-3d111fe8b2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Download</value>
+      <webElementGuid>d04bb516-68c8-48c3-941b-418b74a34239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-dsitems-forusers&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body p-0&quot;]/ul[@class=&quot;todo-list&quot;]/li[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;card-tools float-right&quot;]/a[4]/i[@class=&quot;fa fa-download custom-theme-color-icon-gray1  ml-1 mr-1&quot;]</value>
+      <webElementGuid>8b86bf97-f3c4-4667-a72f-5c35ce2a3615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-dsitems-forusers']/div/div[2]/ul/li/div/div[3]/div/a[4]/i</value>
+      <webElementGuid>d63c90f6-54cc-443b-86ea-95c71cb255db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/i</value>
+      <webElementGuid>6c9d533e-5700-411b-97a9-2a843546b801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Download']</value>
+      <webElementGuid>567b18d1-ee40-48dc-b361-963553b0d927</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

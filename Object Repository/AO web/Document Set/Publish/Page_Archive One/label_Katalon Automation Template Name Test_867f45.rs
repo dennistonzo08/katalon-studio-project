@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Katalon Automation Template Name Test_867f45</name>
+   <tag></tag>
+   <elementGuidId>2981d8bf-2b72-4e75-9e93-240337d23878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#customfooter-1036 > div.row > div.col-6 > div.text-left.ml-2 > div.custom-control.custom-switch > label.custom-control-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/div[3]/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#customfooter-1036 label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>621ef4db-c6cb-4a42-9477-64fa149ea07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>9acefecb-deda-483a-a268-2cc2d13ef301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>chckbox-publishds-1036</value>
+      <webElementGuid>0a626b67-f3f7-4bbd-b1e0-a86ffa4ae9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customfooter-1036&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;text-left ml-2&quot;]/div[@class=&quot;custom-control custom-switch&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>327d4215-c8db-43a1-8eb1-a2be21c811bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customfooter-1036']/div/div/div/div/label</value>
+      <webElementGuid>82e05116-aecf-4d1b-8010-101a50d8f15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/div/div/div/div/label</value>
+      <webElementGuid>37fdafa7-1b73-4c9f-b4fc-8986de669303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CompliantExpiredIncomplete_btnAddDoc_a940f3</name>
+   <tag></tag>
+   <elementGuidId>958650e1-979a-4c6f-8f9a-b04e619a2848</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnAddDocumentSetForUser']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddDocumentSetForUser</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Document Set&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>277793d7-6486-4c79-92c2-064254889480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-sm</value>
+      <webElementGuid>9acf877e-f50c-4b4d-943f-2958f64a7f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddDocumentSetForUser</value>
+      <webElementGuid>b74f91d4-07b6-47dc-8c8b-717ce56ea1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Add Document Set
+                                    </value>
+      <webElementGuid>5191035a-0376-4cbe-a64d-b27ec139be34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddDocumentSetForUser&quot;)</value>
+      <webElementGuid>382705cc-73ef-40ac-9dc2-d203b7b077c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnAddDocumentSetForUser']</value>
+      <webElementGuid>779fb410-7554-4ce8-9f00-c22ef68def32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>0629c4c6-21e5-44dd-af12-68873d68dd46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records Found.'])[1]/preceding::button[1]</value>
+      <webElementGuid>316e44aa-d55c-495d-9fb3-b2d2b384b14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Document Set']/parent::*</value>
+      <webElementGuid>3b3910dd-bb4a-4151-917e-71660cdd6859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>d6423e81-6eae-4916-a1a5-61e210ac9948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnAddDocumentSetForUser' and (text() = '
+                                        Add Document Set
+                                    ' or . = '
+                                        Add Document Set
+                                    ')]</value>
+      <webElementGuid>947efb52-f3e3-4ce8-b94f-6bdc454ba744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

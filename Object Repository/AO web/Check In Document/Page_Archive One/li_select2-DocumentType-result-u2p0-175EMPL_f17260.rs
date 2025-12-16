@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_select2-DocumentType-result-u2p0-175EMPL_f17260</name>
+   <tag></tag>
+   <elementGuidId>473b027a-d829-411c-a3f5-c5cb6b7a42aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-DocumentType-result-u2p0-175;EMPLOYEE 201;5' and (text() = 'EMPLOYEE 201' or . = 'EMPLOYEE 201')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>25217ba0-f937-49b1-9933-4110a45b1735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>72533ece-3a04-4daa-b3c8-12c9c5e37564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-DocumentType-result-u2p0-175;EMPLOYEE 201;5</value>
+      <webElementGuid>88a75ac9-af5e-4650-a215-8928d88bb1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>f8f9230d-4eaa-4863-ac79-49b173ea7c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8b20eb65-f177-4a1f-a229-92b8c728f262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-DocumentType-result-u2p0-175;EMPLOYEE 201;5</value>
+      <webElementGuid>266f095c-abea-470f-aea8-b9a63e46d7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EMPLOYEE 201</value>
+      <webElementGuid>a10c02e7-bd39-42e0-909c-7738adc87ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-DocumentType-result-u2p0-175;EMPLOYEE 201;5&quot;)</value>
+      <webElementGuid>3cfa8b15-4c39-4a9b-9c52-8d5e7a0a439f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-DocumentType-result-u2p0-175;EMPLOYEE 201;5' and (text() = 'EMPLOYEE 201' or . = 'EMPLOYEE 201')]</value>
+      <webElementGuid>2c83f624-a954-4144-83c0-a046202622b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

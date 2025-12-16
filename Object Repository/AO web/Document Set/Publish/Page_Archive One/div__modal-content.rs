@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__modal-content</name>
+   <tag></tag>
+   <elementGuidId>01041015-2cf1-4ce9-97f7-cf60f359e6c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;×Document set 'Katalon Automation Template Name Testing' published by 'Similatan&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44105237-49ab-4e3b-9445-63e47666bf01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>57f9b146-6b32-4c3e-b44c-a9acdb3d8481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Document set 'Katalon Automation Template Name Testing' published by 'Similatan, Syndy'.OK</value>
+      <webElementGuid>140ffe26-bfb0-470c-b8c6-fa95cfaa4a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sidebar-mini layout-fixed modal-open&quot;]/div[@class=&quot;bootbox modal fade bootbox-alert show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>d3f2c664-75ce-4f55-9ad4-f05aaac9947e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      <webElementGuid>f8c67ae6-9b44-4564-b33b-ca84c748ca7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>15c5f5c1-fcfb-43b2-a4f2-0d66a734fb55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;×Document set &quot; , &quot;'&quot; , &quot;Katalon Automation Template Name Testing&quot; , &quot;'&quot; , &quot; published by &quot; , &quot;'&quot; , &quot;Similatan, Syndy&quot; , &quot;'&quot; , &quot;.OK&quot;) or . = concat(&quot;×Document set &quot; , &quot;'&quot; , &quot;Katalon Automation Template Name Testing&quot; , &quot;'&quot; , &quot; published by &quot; , &quot;'&quot; , &quot;Similatan, Syndy&quot; , &quot;'&quot; , &quot;.OK&quot;))]</value>
+      <webElementGuid>51c5e388-19da-45dd-84ec-352870541c9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

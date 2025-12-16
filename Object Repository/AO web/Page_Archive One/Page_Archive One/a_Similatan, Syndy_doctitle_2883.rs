@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Similatan, Syndy_doctitle_2883</name>
+   <tag></tag>
+   <elementGuidId>52f47732-a0f0-4d2b-876d-6663d7897c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='doctitle_2883']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#doctitle_2883</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;123456_1_eagle cement&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4f72f62-d06c-47d9-bdac-bc79143c76ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>doctitle_2883</value>
+      <webElementGuid>7e24e328-ec51-419c-b895-626f23e2682e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>DocumentType:JDE DocumentFolder:3272025 CheckedInBy:Similatan, Syndy DocumentTitle:123456_1_eagle cement DocumentDate:07/03/2025 CheckedInDate:07/03/2025 ICRCBoxNumber:123456 Delegation:eagle cement Month:1</value>
+      <webElementGuid>be2293ed-9c9a-4eb8-b326-4ca95b5ef604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>DisplayDocumentProperties(2883, 1000, 1158)</value>
+      <webElementGuid>f8138e82-85e4-470a-8722-cd9141371a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>eae1adeb-0e97-4e89-b2c4-296a3dc808c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>doctitle custom-link-color</value>
+      <webElementGuid>2d23ec9b-1f28-41a7-b03f-229423a131cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>123456_1_eagle cement</value>
+      <webElementGuid>3731e9dc-e27b-4e63-b639-ae3e85965d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;doctitle_2883&quot;)</value>
+      <webElementGuid>471ff905-ba50-470a-9fad-a3d7ed2e1ee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='doctitle_2883']</value>
+      <webElementGuid>dc307ece-e5ec-4970-bf4a-49c61ddb3cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custom-row-2883']/div[2]/a</value>
+      <webElementGuid>227497fe-a0ae-4356-b313-c459b78560fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'123456_1_eagle cement')]</value>
+      <webElementGuid>bd836fbd-a885-49ee-a24e-2fe134f09f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Similatan, Syndy'])[1]/following::a[1]</value>
+      <webElementGuid>80628290-f9c2-4e0f-931f-21603b1675d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Similatan, Syndy'])[2]/preceding::a[1]</value>
+      <webElementGuid>d17db23a-318c-41d7-8d6d-a8edbbdc4b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='123456_1_eagle cement']/parent::*</value>
+      <webElementGuid>8d6a489f-4768-4435-94d2-926e8a26edac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[22]</value>
+      <webElementGuid>b3711681-d445-442b-968a-22a3749c100b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>d5d08f59-107c-41a8-b8e7-c37f5576f489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'doctitle_2883' and @title = 'DocumentType:JDE DocumentFolder:3272025 CheckedInBy:Similatan, Syndy DocumentTitle:123456_1_eagle cement DocumentDate:07/03/2025 CheckedInDate:07/03/2025 ICRCBoxNumber:123456 Delegation:eagle cement Month:1' and @href = '#' and (text() = '123456_1_eagle cement' or . = '123456_1_eagle cement')]</value>
+      <webElementGuid>2aa6b39a-20b9-477b-8e26-74aff751b264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

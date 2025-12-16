@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Folder View_jstree-icon jstree-ocl_1</name>
+   <tag></tag>
+   <elementGuidId>b3737d06-928f-4abd-8d2b-b2025e9143e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='folder-1158']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#folder-1158 > i.jstree-icon.jstree-ocl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem[name=&quot;3272025&quot;i] >> i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a1844798-3ecd-4b75-b699-94f51b59a91a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jstree-icon jstree-ocl</value>
+      <webElementGuid>bb3e76df-a584-438b-a1c7-a915fb0698e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c43f6f34-e862-47bf-8cb4-cc73d574220a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;folder-1158&quot;)/i[@class=&quot;jstree-icon jstree-ocl&quot;]</value>
+      <webElementGuid>633dfb6c-3f92-41c8-84dd-fe1a38da9465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='folder-1158']/i</value>
+      <webElementGuid>7d971433-29fc-48d8-91bd-e8219e41e511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/i</value>
+      <webElementGuid>63e87825-1ab8-459d-952b-cf6b97e974fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

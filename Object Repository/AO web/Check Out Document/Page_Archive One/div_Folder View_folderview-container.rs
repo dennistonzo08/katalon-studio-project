@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Folder View_folderview-container</name>
+   <tag></tag>
+   <elementGuidId>bae20e2b-f1ef-46a4-ac0f-4383727115cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#folderview-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='folderview-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#folderview-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fc5ca9f-4023-4300-89a6-6d60af1cc194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>folderview-container</value>
+      <webElementGuid>c8f6bfac-5489-4e7f-bc17-7aa122f598b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2</value>
+      <webElementGuid>0c351425-bdc6-41c3-b7dd-56683af6da8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                 Recent My Check-Ins Favorites Building Project – Avida Towers FINANCE Human Resource Department
+                            </value>
+      <webElementGuid>12785db2-65c2-4241-9a0f-e2a0f1cb7656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;folderview-container&quot;)</value>
+      <webElementGuid>f820e752-4150-4320-94eb-d01f8f86faad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='folderview-container']</value>
+      <webElementGuid>24f1e729-5d41-4509-8291-38f5ef18058b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home']/div</value>
+      <webElementGuid>5ff045c2-02d0-4dc3-86cc-8777920d7c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folder View'])[1]/following::div[3]</value>
+      <webElementGuid>61490438-200c-4687-8752-ee9a3909e048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[9]</value>
+      <webElementGuid>cd075bd6-1809-4002-b8ef-351bdabd1743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='undefined'])[1]/preceding::div[10]</value>
+      <webElementGuid>699c4a66-d9a9-40d1-915a-34dd3e99b578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>4b05f3dd-c081-4b25-b981-d26a2f67c562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'folderview-container' and (text() = '
+                                 Recent My Check-Ins Favorites Building Project – Avida Towers FINANCE Human Resource Department
+                            ' or . = '
+                                 Recent My Check-Ins Favorites Building Project – Avida Towers FINANCE Human Resource Department
+                            ')]</value>
+      <webElementGuid>a153c9ba-520e-4603-94dc-0d1b90c2e2d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

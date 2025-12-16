@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Folder View_jstree-icon jstree-ocl</name>
+   <tag></tag>
+   <elementGuidId>b20adbfb-c259-4b30-9ef5-ab6a74216172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='container-1000']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#container-1000 > i.jstree-icon.jstree-ocl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem[name=&quot;FINANCE&quot;i] >> i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eda25d0b-ae4a-48d1-aae3-ff5ffcfedf95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jstree-icon jstree-ocl</value>
+      <webElementGuid>f44639fd-5d8b-4b53-8040-0fcf6d6dd871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>1d087c2b-7eed-46f8-8e3d-95421dbcf4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-1000&quot;)/i[@class=&quot;jstree-icon jstree-ocl&quot;]</value>
+      <webElementGuid>9236c007-a828-4293-885f-5c45915f2468</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='container-1000']/i</value>
+      <webElementGuid>8872c429-5adf-4115-ba81-9f63a93b8af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/i</value>
+      <webElementGuid>85654e33-5081-47ae-912e-d796d4000875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

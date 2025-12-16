@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TreeItem(3)</name>
+   <tag></tag>
+   <locator>MARPOL CONSOLIDATED</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>69</value>
+      <webElementGuid>adafa975-8279-4c83-a02a-3e9d9c7dc11c</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>77d159c8-219c-4446-9cd2-82a9bab58795</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>81</value>
+      <webElementGuid>1a906470-6629-4588-954a-3acbd030fcf7</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>FrameworkId</name>
+      <type>Main</type>
+      <value>WinForm</value>
+      <webElementGuid>ed448739-fb15-45f9-aa95-663ee7104088</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>KgAAAA==,hg4FAA==,BAAAAA==,OF09CQ==</value>
+      <webElementGuid>b15d141e-e2a7-4e65-9038-69bef4985dbb</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Name</name>
+      <type>Main</type>
+      <value>MARPOL CONSOLIDATED</value>
+      <webElementGuid>ac933c28-76c8-444d-adf9-90c1023c4b21</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>447404c5-ded9-4f9d-a958-8d17f43f266c</webElementGuid>
+   </properties>
+</WindowsElementEntity>

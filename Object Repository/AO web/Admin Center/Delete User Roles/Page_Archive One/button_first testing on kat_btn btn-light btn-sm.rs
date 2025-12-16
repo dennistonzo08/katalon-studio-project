@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_first testing on kat_btn btn-light btn-sm</name>
+   <tag></tag>
+   <elementGuidId>1e22f69c-6c0c-46a0-a80f-3e50a731bcd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[24]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#systemrole-row-307 > td:nth-of-type(4) > div.float-left > div.btn-group.btn-group-sm > button.btn.btn-light.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#systemrole-row-307 >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>209a273f-b9cd-4e18-8fd1-30d7b82847de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f992769-7732-4063-900a-5203e646f626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light btn-sm</value>
+      <webElementGuid>d6166bd4-8d7f-47b7-9386-b3d65a67887d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>DisplayDeleteSystemRoleConfirmation(307, 'Katalon Automation First Test');</value>
+      <webElementGuid>3faf7e19-a636-43ee-83c1-c77dd7b52f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;systemrole-row-307&quot;)/td[4]/div[@class=&quot;float-left&quot;]/div[@class=&quot;btn-group btn-group-sm&quot;]/button[@class=&quot;btn btn-light btn-sm&quot;]</value>
+      <webElementGuid>385f9e92-85a5-40ba-a49c-aeddb7f04780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>784b1724-d135-4ae0-b87d-0dab7b566b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='systemrole-row-307']/td[4]/div/div/button</value>
+      <webElementGuid>270b03dd-79ce-4de6-9d4f-56e3d846c540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='first testing on kat...'])[1]/following::button[1]</value>
+      <webElementGuid>60b47082-1316-4818-afe1-bc62937b5206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='second testing on ka...'])[1]/preceding::button[2]</value>
+      <webElementGuid>96381369-56fd-482f-bebe-5434d68ca147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[4]/div/div/button</value>
+      <webElementGuid>996df3f7-ee38-49c0-8b95-7f03ab4cdde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>44724095-bfdc-4e77-879d-36f71b6a3c5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

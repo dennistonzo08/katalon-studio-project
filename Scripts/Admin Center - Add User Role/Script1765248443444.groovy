@@ -1,0 +1,45 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/a_For Approval_nav-link'))
+
+WebUI.click(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/a_For Approval_nav-link'))
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/a_Admin Center_nav-link'))
+
+WebUI.click(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/a_Admin Center_nav-link'))
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/button_User Roles_btnAddNewRole'))
+
+WebUI.click(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/button_User Roles_btnAddNewRole'))
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/div_jm.manatopaperlesstrail.net_modal-content'))
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/input_Role Name_SystemRole'))
+
+WebUI.setText(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/input_Role Name_SystemRole'), 'Katalon Automation Second Test')
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/input_Description_RoleDescription'))
+
+WebUI.setText(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/input_Description_RoleDescription'), 'second testing on katalon automation')
+
+WebUI.verifyElementVisible(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/button_Description_btnSave'))
+
+WebUI.click(findTestObject('AO web/Admin Center/Add User Roles/Page_Archive One/button_Description_btnSave'))
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Katalon Automation Template Name Tes_9d1c15</name>
+   <tag></tag>
+   <elementGuidId>da7eb1d7-1855-41e9-9a22-aa937cacac78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-header > div.btn-group.float-right > button.btn.btn-info.btn-sm.btn-flat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='DisplayDSITemplateCRUD(0,1036)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dsi-rollup-container >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>094375c6-e2c6-48db-a111-a6d264c26a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-sm btn-flat</value>
+      <webElementGuid>a004f804-4d47-42dd-8266-18dbdcab3986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>DisplayDSITemplateCRUD(0,1036)</value>
+      <webElementGuid>0195e9a5-00fb-491e-bc67-dc1cee9e8d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dsi-rollup-container&quot;)/div[@class=&quot;card card-outline&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;btn-group float-right&quot;]/button[@class=&quot;btn btn-info btn-sm btn-flat&quot;]</value>
+      <webElementGuid>a81d7005-fce0-488e-933a-b5f245b90b5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='DisplayDSITemplateCRUD(0,1036)']</value>
+      <webElementGuid>ea6bf537-151c-432f-b708-f81adb627db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dsi-rollup-container']/div/div/div/button</value>
+      <webElementGuid>92ab0e4f-aced-4588-beff-5ab35492b472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Automation Template Name Testing'])[2]//button[1]</value>
+      <webElementGuid>2176682e-798e-4066-9c2d-756a34dbbedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Automation Template Name Testing'])[1]/following::button[1]</value>
+      <webElementGuid>a206e7a8-c4bf-4e93-8891-42dd444bd0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DSITemplateID'])[1]/preceding::button[1]</value>
+      <webElementGuid>180eea09-854b-47db-87c4-d8d204a7744b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DSTemplateID'])[1]/preceding::button[1]</value>
+      <webElementGuid>eeed0360-4aaf-429a-bd9e-b6f6cedab741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>a7994bc5-8c50-4a09-844c-5edaa28df6ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+[
+    {
+        "name": ".AO2021.Session",
+        "value": "CfDJ8PLbDR%2FiehBNqubbfyBBkAgtfwYXt5Nvw6O6s%2Bmoyi63kpkvaZYOd4fgcU%2BfA5aJ23CeKckqCfC19dmdS1tFSUP%2F38zum8f7mBe8FlwHeI6pHL1wn7swaM1VMm%2FIhscDrPjrx%2B7ZCAiOWa1yFWOhR9JmnnhEPqs0ZY9aK47QyZzw",
+        "domain": "devportalci.archive-one.net",
+        "path": "/",
+        "expiry": null,
+        "isSecure": false
+    },
+    {
+        "name": ".AspNetCore.Antiforgery.Ttoj3OEeVko",
+        "value": "CfDJ8PLbDR_iehBNqubbfyBBkAhogG9O1h0geF23eq7XTA8OaT2AtoCO7q9vyzjosb9B_IqUtDE7AZn0GupWKKGq9Pi0Inq94FES9iNkd_4QUFaQ_395AW1_Sug8W51ry60oEi6vUYSUl3ZLsXanO5d9Oko",
+        "domain": "devportalci.archive-one.net",
+        "path": "/",
+        "expiry": null,
+        "isSecure": false
+    }
+]

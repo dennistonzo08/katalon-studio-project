@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>8e934454-6aaf-49dd-bb11-202dfdfd17f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;DeleteLibraryConfirmation(1038,'Katalon Library Name Test')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a5d528d-aeeb-4897-b353-28d9a49b479b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>2a892efa-9cc6-4377-80e2-5bf9ecdf1352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>DeleteLibraryConfirmation(1038,'Katalon Library Name Test')</value>
+      <webElementGuid>477bc8c1-bd44-48cd-ad01-1bb700555864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Delete</value>
+      <webElementGuid>c9de099f-d4e4-4e7b-9476-991156e96bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;library-row-1038&quot;)/td[5]/div[@class=&quot;float-right&quot;]/div[@class=&quot;btn-group btn-group-sm show&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/li[@class=&quot;nav-link&quot;]/a[1]</value>
+      <webElementGuid>cc81cd13-8e67-47e1-8290-cb6587fbf7dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;DeleteLibraryConfirmation(1038,'Katalon Library Name Test')&quot;]</value>
+      <webElementGuid>9ff54319-b92d-4d7e-add8-285da90f28c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='library-row-1038']/td[5]/div/div/ul/li[2]/a</value>
+      <webElementGuid>580da5de-29fc-4513-a40a-bd2d22fe7b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is katalon description test'])[1]/following::a[2]</value>
+      <webElementGuid>872f7e75-0731-46f2-b9fc-ed870a5716c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MIKHAEL'])[1]/preceding::a[2]</value>
+      <webElementGuid>9d15a28d-bdde-443b-89d6-c49e925bbea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MIKHAEL'])[2]/preceding::a[2]</value>
+      <webElementGuid>e5c0d5f5-f08f-4399-a505-200125058194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[28]</value>
+      <webElementGuid>e736671e-c96b-45b2-b9cc-f2454342ef3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[5]/div/div/ul/li[2]/a</value>
+      <webElementGuid>48d1023e-4cb5-4f28-acb3-9f7d2c57c6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '   Delete' or . = '   Delete')]</value>
+      <webElementGuid>0888d2da-74bb-4c47-b657-24b6079aa39e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

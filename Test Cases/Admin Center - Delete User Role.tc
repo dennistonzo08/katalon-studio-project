@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin Center - Delete User Role</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eaeed2ed-c9e3-499a-b8b7-e762ebb8ee53</testCaseGuid>
+</TestCaseEntity>

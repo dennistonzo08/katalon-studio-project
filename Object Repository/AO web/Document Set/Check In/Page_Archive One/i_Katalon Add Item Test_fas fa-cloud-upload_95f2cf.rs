@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Katalon Add Item Test_fas fa-cloud-upload_95f2cf</name>
+   <tag></tag>
+   <elementGuidId>7d04b577-f77b-4b2c-acfb-adcce323d0cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-dsitems-forusers']/div/div[2]/ul/li/div/div[3]/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-cloud-upload-alt.custom-theme-color-icon-gray1.ml-1.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>97e57432-a009-40fd-bf72-42e090df8c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-cloud-upload-alt custom-theme-color-icon-gray1 ml-1 mr-1</value>
+      <webElementGuid>e979fe1f-3592-434b-a17f-c4b6677046ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>bottom</value>
+      <webElementGuid>dc4d263e-3172-4924-bc4d-7cbd61aab32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Check In</value>
+      <webElementGuid>1f5b35e1-249e-4682-925a-d0c278db56b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-dsitems-forusers&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body p-0&quot;]/ul[@class=&quot;todo-list&quot;]/li[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;card-tools float-right&quot;]/a[2]/i[@class=&quot;fas fa-cloud-upload-alt custom-theme-color-icon-gray1 ml-1 mr-1&quot;]</value>
+      <webElementGuid>8b4e1743-b4e3-45d0-a7fe-afd7f4bec46d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-dsitems-forusers']/div/div[2]/ul/li/div/div[3]/div/a[2]/i</value>
+      <webElementGuid>8d3f9651-8038-4806-9959-f461693403ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]/i</value>
+      <webElementGuid>80a9555c-b085-4284-963d-3df5fa7ee021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Check In']</value>
+      <webElementGuid>3f46df87-b072-4aba-9958-50a9a7a4a982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>TreeItem</name>
+   <tag></tag>
+   <locator>BASIC TRAINING</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>69</value>
+      <webElementGuid>6d9bfe4a-a176-416c-9bae-d00907dbafd3</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>48</value>
+      <webElementGuid>819e5be7-0a03-4865-8dc0-eb794516854d</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>a343fa44-5de5-4e78-9229-27848109e263</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>FrameworkId</name>
+      <type>Main</type>
+      <value>WinForm</value>
+      <webElementGuid>57c4810e-cb86-4c16-94f6-f4714ff59745</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>RuntimeId</name>
+      <type>Main</type>
+      <value>KgAAAA==,hg4FAA==,BAAAAA==,gEI9CQ==</value>
+      <webElementGuid>dc6dde70-18b7-4ebe-b232-02f9a40eae4d</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Name</name>
+      <type>Main</type>
+      <value>BASIC TRAINING</value>
+      <webElementGuid>e526b222-ee91-4a9e-8fa3-e512cfdcdf23</webElementGuid>
+   </properties>
+   <properties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>8efbc6b9-482e-4029-9f0a-b9a9a6c4a0c9</webElementGuid>
+   </properties>
+</WindowsElementEntity>

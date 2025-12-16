@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>db01181d-a48c-48e6-af3f-e8231ccf1973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='custom-row-2883']/div[2]/div[2]/div/text/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custom-row-2883 > div.col-sm-7.col-md-8.ml-1 > div.row > div.col-lg-12.col-md-12.col-sm-12 > text > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;479&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>298877cf-220c-47ad-9024-073741e0bb46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>479</value>
+      <webElementGuid>30f3d34e-e911-4045-836c-d384af5bbf69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom-row-2883&quot;)/div[@class=&quot;col-sm-7 col-md-8 ml-1&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12&quot;]/text[1]/label[1]</value>
+      <webElementGuid>4c26e166-9015-4d43-8618-b394580a8e7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custom-row-2883']/div[2]/div[2]/div/text/label</value>
+      <webElementGuid>e02818a0-8293-4522-bd32-043125049176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Similatan, Syndy'])[1]/following::label[2]</value>
+      <webElementGuid>78941d49-48ab-4012-813b-1f8697e37b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Similatan, Syndy'])[2]/preceding::label[2]</value>
+      <webElementGuid>ae861d9b-e470-4095-a19c-2c63f0c49d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locked'])[1]/preceding::label[3]</value>
+      <webElementGuid>69d8305c-b50e-44c9-8017-f191265cd7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='479']/parent::*</value>
+      <webElementGuid>d77bdf61-70fd-4bc4-9743-7023e8d107fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/text/label</value>
+      <webElementGuid>fee98ad6-3c05-4b9e-b0e9-5ec5c472b1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '479' or . = '479')]</value>
+      <webElementGuid>6e8045ae-8085-4a54-b4ec-e428fdd038d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
