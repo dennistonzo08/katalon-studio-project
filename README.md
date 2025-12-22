@@ -93,86 +93,139 @@ StepFailedException: Web element located by XPath not found
 Unable to verify object is visible
 ```
 
-**Root Causes:**
+#### Root Cause
 - Dynamic element IDs (e.g., `doctitle_2980`)
-- Page not fully loaded
-- AJAX-rendered elements
-- Incorrect page navigation
+- Element rendered via AJAX
+- Verification executed before page load completion
 
-**Recommendations:**
-- Avoid hard-coded dynamic IDs
-- Use resilient locators:
+#### Step-by-Step Fix
+
+**Step 1: Identify if the locator uses a dynamic ID**
+- Open the Object Repository entry
+- Check if the XPath relies on a numeric or changing ID
+
+📘 Reference:
+https://docs.katalon.com/docs/manage-test-artifacts/object-repository
+
+---
+
+**Step 2: Replace dynamic ID with a resilient locator**
 ```xpath
 //a[contains(@id,'doctitle_')]
 //a[contains(text(),'Manalo')]
 ```
-- Add explicit waits:
+
+📘 Reference:
+https://docs.katalon.com/docs/automate/handle-dynamic-elements
+
+---
+
+**Step 3: Add an explicit wait before verification**
 ```groovy
 WebUI.waitForElementVisible(obj, 30)
+WebUI.verifyElementVisible(obj)
 ```
+
+📘 Reference:
+https://docs.katalon.com/docs/automate/web-testing/waits
 
 ---
 
 ### 5.2 Timing & Synchronization Failures
 
-**Symptoms:**
-- Tests pass locally but fail in CI
-- Random or flaky failures
+#### Root Cause
+- Immediate verification without waits
+- Slow network or heavy UI rendering
 
-**Root Causes:**
-- `verifyElementVisible` used without waits
-- Heavy page load or slow network
+#### Step-by-Step Fix
 
-**Fix:**
-- Replace immediate verification with wait-based logic
-- Use `waitForElementPresent` before interaction
+**Step 1: Replace `verifyElementVisible` with wait-based flow**
+```groovy
+WebUI.waitForElementPresent(obj, 30)
+```
+
+📘 Reference:
+https://docs.katalon.com/docs/automate/web-testing/waits
+
+---
+
+**Step 2: Validate page load before interacting**
+```groovy
+WebUI.waitForPageLoad(30)
+```
+
+📘 Reference:
+https://docs.katalon.com/docs/automate/web-testing/page-load-timeout
 
 ---
 
 ### 5.3 Data Dependency Failures
 
-**Symptoms:**
-- Tests fail only when certain records are missing
-- Errors when verifying specific document names
-
-**Root Causes:**
-- Test data not created during setup
+#### Root Cause
+- Test relies on pre-existing records
 - Shared environment data modified by other tests
 
-**Fix:**
-- Create test data as part of test setup
-- Use unique, test-generated records
-- Implement teardown cleanup
+#### Step-by-Step Fix
+
+**Step 1: Create test data during setup**
+- Add a setup test case to create required records
+
+📘 Reference:
+https://academy.katalon.com/courses/data-driven-testing
+
+---
+
+**Step 2: Use unique test data identifiers**
+```groovy
+def docName = "AUTO_DOC_" + System.currentTimeMillis()
+```
+
+📘 Reference:
+https://docs.katalon.com/docs/automate/data-driven-testing
 
 ---
 
 ### 5.4 Locator Fragility
 
-**Symptoms:**
-- Tests break after UI changes
-
-**Root Causes:**
+#### Root Cause
 - Absolute XPath usage
-- Over-reliance on index-based selectors
+- Index-based locators
 
-**Fix:**
-- Prefer relative XPath
-- Use stable attributes (name, aria-label, data-*)
+#### Step-by-Step Fix
+
+**Step 1: Replace absolute XPath with relative XPath**
+```xpath
+//div[@class='document-list']//a
+```
+
+📘 Reference:
+https://academy.katalon.com/courses/web-element-locators
 
 ---
 
 ### 5.5 Environment Configuration Issues
 
-**Symptoms:**
-- Tests fail only in certain profiles
+#### Root Cause
+- Missing or incorrect profile variables
 
-**Root Causes:**
-- Incorrect URLs or credentials
-- Missing profile variables
+#### Step-by-Step Fix
 
-**Fix:**
-- Validate all Profiles before execution
-- Add environment validation test case
+**Step 1: Validate Profiles before execution**
+- Open **Profiles/** folder
+- Ensure all required variables exist
+
+📘 Reference:
+https://docs.katalon.com/docs/run/execute-tests-with-profiles
+
+---
+
+**Step 2: Add environment validation test case**
+```groovy
+WebUI.verifyNotEqual(GlobalVariable.baseUrl, '')
+```
+
+📘 Reference:
+https://docs.katalon.com/docs/maintain/global-variables
 
 ---
 
